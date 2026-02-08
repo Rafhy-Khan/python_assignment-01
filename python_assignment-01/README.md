@@ -94,7 +94,7 @@ How to Use This Repository
 
 Clone the repository:
 
-git clone https://github.com/Rafhy-khan/python_assignment#01.git
+git clone https://github.com/Rafhy-khan/python_assignment-01.git
 
 
 Open the notebook in VS Code or Jupyter Notebook
